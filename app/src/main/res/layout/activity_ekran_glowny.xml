@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.raf.mojbudzet3.EkranGlowny"
+    android:id="@+id/abel">
+
+    <Button
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Statystyki"
+        android:id="@+id/StatystykiB"
+        android:onClick="Statystyki"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/WydatkiB"
+        android:layout_alignLeft="@+id/DodajB"
+        android:layout_alignStart="@+id/DodajB" />
+
+    <Button
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Przychody"
+        android:id="@+id/DodajB"
+        android:layout_marginTop="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="DodajDochody"/>
+
+    <Button
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Wydatki"
+        android:id="@+id/WydatkiB"
+        android:onClick="Dodaj"
+        android:layout_below="@+id/DodajB"
+        android:layout_marginTop="30dp"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/StatystykiB"
+        android:layout_alignStart="@+id/StatystykiB"/>
+
+</RelativeLayout>

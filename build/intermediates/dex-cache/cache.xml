@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Raf\Desktop\MojBudzet3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Raf\Desktop\MojBudzet3\app\build\intermediates\pre-dexed\debug\classes-da8f19e74c7f694615da35699c3ba52a83d8ab18.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raf\Desktop\MojBudzet3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Raf\Desktop\MojBudzet3\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-df9f91ef71cbc9ae3aea00b16efd0cd0925e453a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raf\Desktop\INZ PROJEKT\Inżynieria POJEKT\MojBudzet3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Raf\Desktop\INZ PROJEKT\Inżynieria POJEKT\MojBudzet3\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-9ff2c032ec343b8f114c3e9839daacdf65e3f5a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raf\Desktop\INZ PROJEKT\Inżynieria POJEKT\MojBudzet3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Raf\Desktop\INZ PROJEKT\Inżynieria POJEKT\MojBudzet3\app\build\intermediates\pre-dexed\debug\classes-6313b4fef540e3a3f9fe748cc16f4770afef9015.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raf\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Raf\Desktop\INZ PROJEKT\Inżynieria POJEKT\MojBudzet3\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-23a5dac29362b984b335c74bcd72b67086718dbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raf\Desktop\MojBudzet3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Raf\Desktop\MojBudzet3\app\build\intermediates\pre-dexed\debug\classes-9802d554674abdce2d9a6c13cf48cac34588251f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raf\Desktop\INZ PROJEKT\Inżynieria POJEKT\MojBudzet3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Raf\Desktop\INZ PROJEKT\Inżynieria POJEKT\MojBudzet3\app\build\intermediates\pre-dexed\debug\classes-747d2f05d1a33d82f21601d30f091e6321f126ce.jar" />
+    </item>
+
+</items>
